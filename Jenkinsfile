@@ -1,6 +1,3 @@
-Mets à jour ton `Jenkinsfile` :
-
-```groovy
 pipeline {
     agent any
 
@@ -29,6 +26,5 @@ pipeline {
         }
     }
 }
-```
 
-Push et lance un build — Jenkins va te demander de choisir l'environnement avant de lancer.
+
