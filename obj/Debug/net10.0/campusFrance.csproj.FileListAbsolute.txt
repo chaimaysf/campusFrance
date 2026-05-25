@@ -172,3 +172,9 @@
 /Users/chaimayousfi/campusFrance/obj/Debug/net10.0/campusFrance.pdb
 /Users/chaimayousfi/campusFrance/obj/Debug/net10.0/campusFrance.genruntimeconfig.cache
 /Users/chaimayousfi/campusFrance/obj/Debug/net10.0/ref/campusFrance.dll
+/Users/chaimayousfi/campusFrance/bin/Debug/net10.0/Allure.Net.Commons.dll
+/Users/chaimayousfi/campusFrance/bin/Debug/net10.0/Allure.ReqnrollPlugin.dll
+/Users/chaimayousfi/campusFrance/bin/Debug/net10.0/AspectInjector.Broker.dll
+/Users/chaimayousfi/campusFrance/bin/Debug/net10.0/CsvHelper.dll
+/Users/chaimayousfi/campusFrance/bin/Debug/net10.0/MimeTypesMap.dll
+/Users/chaimayousfi/campusFrance/obj/Debug/net10.0/campusFrance.sourcelink.json

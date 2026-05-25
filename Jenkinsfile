@@ -11,7 +11,7 @@ pipeline {
             sh '/opt/homebrew/bin/dotnet test'
         }}
         stage('Report') { steps {
-            sh '/opt/homebrew/bin/allure generate allure-results --clean -o allure-report'
+            sh '/opt/homebrew/bin/allure generate bin/Debug/net10.0/allure-results --clean -o allure-report'
         }}
     }
     post {

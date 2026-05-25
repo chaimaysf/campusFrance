@@ -1,0 +1,7 @@
+{
+  "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.jsonschema.json",
+  "allure": {
+    "enabled": true,
+    "directory": "allure-results"
+  }
+}
